@@ -48,9 +48,9 @@ terminal-snake/
    ```bash
    python snake_game.py
 
-   游戏规则
-
   ***
+
+游戏规则
 
    目标
 控制蛇吃到地图中红色的食物 O，每吃一个得 10 分，蛇身会增长一节。
